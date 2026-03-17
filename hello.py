@@ -1,2 +1,1 @@
-print("Hello, World!")
-print("Hi ! Isaiah")
+print("Hello, from feature-2")
