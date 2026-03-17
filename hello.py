@@ -1,1 +1,3 @@
-print("Hello from main and feature-2")
+print("Hello, World!")
+print("Hi! Isaiah")
+print("Welcome to SE-assignment2")
