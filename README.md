@@ -2,7 +2,7 @@
 
 ##Project Description
 This project was created for COMP 3322 Software Engineering Assignment #2
-It demonstrates basic Git and GitHUb operations such as creating a repository, making comits, workinh with branches, merging pull request, and resolving merge conflicts.
+It demonstrates basic Git and GitHUb operations such as creating a repository, making comits, working with branches, merging pull request, and resolving merge conflicts.
 
 ## Installation Instructions
 1. Clone the repository
